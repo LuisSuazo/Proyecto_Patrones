@@ -1,0 +1,3 @@
+Each training set consist of 50 unique positive and 200 unique negative samples; however, artificial positive samples are used in the sets. Thus, the total number of positive samples is 200.
+
+Negative samples are labeled as NXXXX and positive samples as PXXXX where XXXX is the serial number of the sample of the appropriate class.
