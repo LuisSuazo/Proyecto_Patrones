@@ -1,6 +1,0 @@
-Acc Train: 8.573509e-01 
-Performance Train: 1.080325e-01 
-FSMC Train: 1.466300e-01 
-Sensitivity Train: 8.478000e-01 
-Specificity Train: 8.589400e-01 
-CCR Train: 8.533700e-01 
